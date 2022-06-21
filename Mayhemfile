@@ -1,6 +1,5 @@
-project: rnshah9/programl
-target: programl
-tests: null
+project: programl
+target: graph2json
 
 cmds:
   - cmd: /repo/bazel-bin/programl/bin/graph2json
