@@ -2,4 +2,4 @@ project: programl
 target: graph2json
 
 cmds:
-  - cmd: /repo/bazel-bin/programl/bin/graph2json
+  - cmd: /graph2json
